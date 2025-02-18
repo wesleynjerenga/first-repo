@@ -1,1 +1,1 @@
-this is a description of buildiing a portfolio new
+this is a description of buildiing a portfolio newgit git init.git 
